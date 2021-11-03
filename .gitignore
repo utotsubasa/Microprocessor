@@ -1,0 +1,5 @@
+*.v.out
+*.jou
+*.log
+*.str
+test.v
